@@ -1,6 +1,31 @@
+# Node
 node_modules/
+
+# Environment
 .env
+
+# Build outputs
 dist/
 build/
-coverage/
-__pycache__/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Logs
+logs/
+*.log
+*.gz
+
+# Uploads
+uploads/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
